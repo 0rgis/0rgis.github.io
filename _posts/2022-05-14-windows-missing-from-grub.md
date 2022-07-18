@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Windows missing from grub after update, dual boot linux & windows 10.
-feature-img: "assets/img/grub-1-1024x461.jpg"
-thumbnail: ""
 tags: [Grub, DualBoot, Linux, Windows]
+color: turquoise
+excerpt_separator: <!--more-->
 ---
 
-A recent update in kali removed the boot to windows option while dual booting with windows 10 & using grub bootloader, luckily in the change notes there is a fix for this:
-![Travel]({{ assets/img/grub-1-1024x461.jpg | relative_url}})
+A recent update in kali removed the boot to windows option while dual booting with windows 10 & using grub bootloader, luckily in the change notes there is a fix for this: <!--more-->
+
+![Travel]({{ "/assets/img/grub-1-1024x461.jpg" | relative_url}})
+
 
 Open "/etc/default/grub" in a editor of your choice using sudo and add the below code to the end of the other options, next line is fine.
 
