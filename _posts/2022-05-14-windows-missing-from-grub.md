@@ -7,7 +7,7 @@ tags: [Grub, DualBoot, Linux, Windows]
 ---
 
 A recent update in kali removed the boot to windows option while dual booting with windows 10 & using grub bootloader, luckily in the change notes there is a fix for this:
-
+![Travel]({{ assets/img/grub-1-1024x461.jpg | relative_url}})
 
 Open "/etc/default/grub" in a editor of your choice using sudo and add the below code to the end of the other options, next line is fine.
 
