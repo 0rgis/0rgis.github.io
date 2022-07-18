@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows missing from grub after update, dual boot linux & windows 10.
+title: Windows missing from grub after update, dual boot linux.
 tags: [Grub, DualBoot, Linux, Windows]
 color: turquoise
 excerpt_separator: <!--more-->
