@@ -25,7 +25,7 @@
   </div>
 
   <div class="main">
-    <iframe id="contentFrame" src="https://labs.hackxpert.com/labs.html" frameborder="0" allowfullscreen></iframe>
+    <iframe id="contentFrame" src="https://hackxpert.com" frameborder="0" allowfullscreen></iframe>
   </div>
 
   <div class="right";style="border-radius:10px">
