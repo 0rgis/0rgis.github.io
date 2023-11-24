@@ -1,0 +1,113 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  /* background-color:#a09e9e; */
+  /* background: linear-gradient(335deg, #666,#a19b9b, #666); */
+  background: linear-gradient(to top right, red , yellow);
+  font-family:Verdana;
+  color:#aaaaaa;
+}
+
+/* begin my edit */
+ul {
+  list-style-type: none;
+  margin: 3px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: black
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: grey;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+/* end edit */
+
+iframe {
+  border-radius:10px;
+  border-style:solid;
+  border-width:1px;
+  border-color:blue;
+  width: 100%;
+	padding: 10px;
+  height: 700px; /* Adjust the height as needed */
+}
+
+.main {
+  float: left;
+  width: 60%;
+  padding: 0 10px;
+}
+
+.left {
+  border-radius:10px;
+  border-style:solid;
+  border-width:1px;
+  border-color:blue;
+  /* background-color: #e5e5e5; */
+  float: left;
+  width: 20%;
+  padding: 5px;
+  margin-top: 7px;
+  text-align: center;
+}
+
+.right {
+  border-radius:10px;
+  border-style:solid;
+  border-width:1px;
+  border-color:blue;
+  background-color: #e5e5e5;
+  float: left;
+  width: 20%;
+  padding: 15px;
+  margin-top: 7px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 620px) {
+  /* For mobile phones: */
+  .menu, .main, .right, .left {
+    width: 100%;
+  }
+}
