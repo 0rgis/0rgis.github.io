@@ -1,6 +1,7 @@
 <header>
     <!-- <div style="border-radius:10px;background-color:#e5e5e5;padding:10px;text-align:left;"> -->
     <div style="border-radius:10px;background-color:black;border-style:solid;border-width:1px;border-color:blue;padding:10px;text-align:left;">
+    <!-- <div style="border-radius:10px;background: linear-gradient(to top right, #cacacf , #53535C, #cacacf);border-style:solid;border-width:1px;border-color:blue;padding:10px;text-align:left;"> -->
     <!-- <img src="assets/img/logo.png" alt="Logo" style="width:80px;height:60px;"> -->
     <!-- <div style="padding:0px;text-align:center;"> USE THIS TO REMOVE BANNER COLOR -->
     <h1>hackxpert labs</h1>
