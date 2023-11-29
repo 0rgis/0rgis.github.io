@@ -37,7 +37,7 @@
         </ul>
     </nav> -->
 
-<ul style="border-radius:10px;border-style:solid;border-width:1px;border-color:blue;">
+<ul>
   <li><a href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
   <li class="dropdown">
