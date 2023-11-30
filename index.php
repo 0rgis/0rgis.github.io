@@ -3,6 +3,7 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="assets/css/style.css">
+<link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico">
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 <script src="assets/src/script.js"></script>
 </head>
@@ -15,17 +16,12 @@
   <div class="left">
     <h2>Our Sponsors</h2>
     <a href="https://pentest-tools.com"><img src="assets/img/pentools.svg" alt="pentest-tools" style="width:100;height:60px;"></a><br><br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+    <hr>
+    <h2>your advert here?</h2>
+    <p style="color:pink;font-size:18px;" >info@thexssrat.com</p>
+    <hr>
+    <h2>your advert here?</h2>
+    <p style="color:pink;font-size:18px;" >info@thexssrat.com</p>
     <hr>
     <p>Donate to keep our labs alive:</p>
     <form action="https://www.paypal.com/donate" method="post" target="_top">
@@ -42,17 +38,17 @@
 
   <div class="right">
     <h2>Resources</h2>
-    <a href="https://portswigger.net">Portswigger</a><br><br>
-    <a href="https://labs.hackxpert.com/cybersecurity_news.html">Cybersecurity news</a><br><br>
+    <a href="https://portswigger.net" target=”_blank”>Portswigger</a><br>
+    <a href="https://labs.hackxpert.com/cybersecurity_news.html" target=”_blank”>Cybersecurity news</a><br>
     <br>
+    <hr>
+    <h2>oor shite</h2>
     <br>
+    <a href="https://cheese-shop.be/" target=”_blank”><strong>The Cheese Shop</strong></a>
     <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+    <a href="https://hackxpert.com" target=”_blank”><strong>hackXpert</strong></a><br>
+    <a href="https://thexssrat.podia.com" target=”_blank”><strong>courses</strong></a><br>
+    <a href="https://cnwpp.net" target=”_blank”><strong>cnwpp</strong></a><br>
     <br>
     <hr>
     <p>Donate to keep our labs alive:</p>

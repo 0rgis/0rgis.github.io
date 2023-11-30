@@ -38,15 +38,16 @@
     </nav> -->
 
 <ul>
-  <li><a href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
+  <!-- <li><a href="#home">Home(not rqd)</a></li> -->
+  <!-- <li><a href="#news">News(not rqd)</a></li> -->
   <li class="dropdown">
-    <a href="javascript:void(0)" class="dropbtn">Labs</a>
+    <a href="javascript:void(0)" class="dropbtn">Rat Labs</a>
     <div class="dropdown-content">
       <a href="#">Link 1</a>
       <a href="#">Link 2</a>
       <a href="#">Link 3</a>
     </div>
+    <li><a href="#news">about(link to podia about wes??)</a></li>
   </li>
 </ul>
 </header>

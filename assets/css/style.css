@@ -90,7 +90,8 @@ iframe {
   border-width:1px;
   border-color:blue;
   /* background-color: #e5e5e5; */
-  background: linear-gradient(to top right, #cacacf , #53535C, #cacacf);
+  background-color: black;
+  /* background: linear-gradient(to top right, #cacacf , #53535C, #cacacf); */
   float: left;
   width: 20%;
   padding: 5px;
@@ -98,6 +99,7 @@ iframe {
   text-align: center;
   p {
     font-size: 18px;
+    color: black;
      }
 }
 
@@ -107,17 +109,41 @@ iframe {
   border-width:1px;
   border-color: blue;
   /* background-color: #e5e5e5; */
-  background: linear-gradient(to top right, #cacacf , #53535C, #cacacf);
+  /* background: linear-gradient(to top right, #cacacf , #53535C, #cacacf); */
+  background-color: black;
   float: left;
   width: 20%;
   padding: 15px;
   margin-top: 7px;
+
   text-align: center;
 
 p {
  font-size: 18px;
- color: black;
+ /* color: black; */
   }
+
+  /* edit hover colors etc */
+ /* unvisited link */
+ a:link {
+  color: hotpink;
+  }
+
+/* visited link */
+a:visited {
+  color: blue;
+  }
+
+/* mouse over link */
+a:hover {
+  color: red;
+  }
+
+/* selected link */
+a:active {
+  color: purple;
+  } 
+
 }
 
 @media only screen and (max-width: 600px) {
