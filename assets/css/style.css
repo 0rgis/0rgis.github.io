@@ -74,8 +74,8 @@ iframe {
   border-width:1px;
   /* border-color:blue; */
   width: 100%;
-	padding: 10px;
-  height: 700px; /* Adjust the height as needed */
+  /* padding: 10px; */
+  height: 550px; /* Adjust the height as needed */
 }
 
 .main {
@@ -90,7 +90,8 @@ iframe {
   border-width:1px;
   border-color:blue;
   /* background-color: #e5e5e5; */
-  background-color: black;
+  /* background-color: black; */
+  background-color: rgba(0, 0, 0, 0.6);
   /* background: linear-gradient(to top right, #cacacf , #53535C, #cacacf); */
   float: left;
   width: 20%;
@@ -99,7 +100,7 @@ iframe {
   text-align: center;
   p {
     font-size: 18px;
-    color: black;
+    /* color: black; */
      }
 }
 
@@ -110,33 +111,33 @@ iframe {
   border-color: blue;
   /* background-color: #e5e5e5; */
   /* background: linear-gradient(to top right, #cacacf , #53535C, #cacacf); */
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.6);
+  /* background-color: black; */
   float: left;
   width: 20%;
-  padding: 15px;
+  padding: 5px;
   margin-top: 7px;
-
   text-align: center;
 
-p {
- font-size: 18px;
- /* color: black; */
+  p {
+   font-size: 18px;
+   /* color: black; */
   }
 
   /* edit hover colors etc */
  /* unvisited link */
  a:link {
-  color: hotpink;
+  color: white;
   }
 
 /* visited link */
 a:visited {
-  color: blue;
+  color: grey;
   }
 
 /* mouse over link */
 a:hover {
-  color: red;
+  color: blue;
   }
 
 /* selected link */
@@ -148,8 +149,9 @@ a:active {
 
 @media only screen and (max-width: 600px) {
   /* For mobile phones: */
-  /* .menu, .main, .right, .left { */
-    * {
+  .menu, .main, .right, .left {    
     width: 100%;
   }
-}
+  p {
+	  font-size: 9px;
+    }

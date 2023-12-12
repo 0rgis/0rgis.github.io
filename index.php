@@ -18,10 +18,10 @@
     <a href="https://pentest-tools.com"><img src="assets/img/pentools.svg" alt="pentest-tools" style="width:100;height:60px;"></a><br><br>
     <hr>
     <h2>your advert here?</h2>
-    <p style="color:pink;font-size:18px;" >info@thexssrat.com</p>
+    <p style="color:white;font-size:18px;" >info@thexssrat.com</p>
     <hr>
     <h2>your advert here?</h2>
-    <p style="color:pink;font-size:18px;" >info@thexssrat.com</p>
+    <p style="color:white;font-size:18px;" >info@thexssrat.com</p>
     <hr>
     <p>Donate to keep our labs alive:</p>
     <form action="https://www.paypal.com/donate" method="post" target="_top">
@@ -40,15 +40,20 @@
     <h2>Resources</h2>
     <a href="https://portswigger.net" target=”_blank”>Portswigger</a><br>
     <a href="https://labs.hackxpert.com/cybersecurity_news.html" target=”_blank”>Cybersecurity news</a><br>
+    <a href="https://labs.hackxpert.com/techStream/" target=”_blank”>Cybersecurity rss</a><br>
     <br>
     <hr>
-    <h2>oor shite</h2>
     <br>
+    <h2>oor shite</h2>
     <a href="https://cheese-shop.be/" target=”_blank”><strong>The Cheese Shop</strong></a>
     <br>
-    <a href="https://hackxpert.com" target=”_blank”><strong>hackXpert</strong></a><br>
-    <a href="https://thexssrat.podia.com" target=”_blank”><strong>courses</strong></a><br>
-    <a href="https://cnwpp.net" target=”_blank”><strong>cnwpp</strong></a><br>
+    <a href="https://hackxpert.com" target=”_blank”><strong>hackXpert</strong></a>
+    <br>
+    <a href="https://thexssrat.podia.com" target=”_blank”><strong>courses</strong></a>
+    <br>
+    <a href="https://cnwpp.net" target=”_blank”><strong>cnwpp</strong></a>
+    <br>
+    <br>
     <br>
     <hr>
     <p>Donate to keep our labs alive:</p>
