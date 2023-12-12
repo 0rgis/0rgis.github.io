@@ -45,14 +45,10 @@
     <hr>
     <br>
     <h2>oor shite</h2>
-    <a href="https://cheese-shop.be/" target=”_blank”><strong>The Cheese Shop</strong></a>
-    <br>
-    <a href="https://hackxpert.com" target=”_blank”><strong>hackXpert</strong></a>
-    <br>
-    <a href="https://thexssrat.podia.com" target=”_blank”><strong>courses</strong></a>
-    <br>
-    <a href="https://cnwpp.net" target=”_blank”><strong>cnwpp</strong></a>
-    <br>
+    <a href="https://cheese-shop.be/" target=”_blank”>The Cheese Shop</a><br>
+    <a href="https://hackxpert.com" target=”_blank”>hackXpert</a><br>
+    <a href="https://thexssrat.podia.com" target=”_blank”>courses</a><br>
+    <a href="https://cnwpp.net" target=”_blank”>cnwpp</a><br>
     <br>
     <br>
     <hr>
