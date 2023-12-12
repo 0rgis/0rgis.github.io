@@ -33,7 +33,7 @@
     </div>
 
   <div class="main">
-    <iframe id="contentFrame" src="https://blog.hackxpert.com" frameborder="0" allowfullscreen></iframe>
+    <iframe id="contentFrame" src="https://labs.hackxpert.com/Testing%20grounds/" frameborder="0" allowfullscreen></iframe>
   </div>
 
   <div class="right">
